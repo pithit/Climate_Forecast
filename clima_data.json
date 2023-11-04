@@ -1,0 +1,40 @@
+{
+    "historico": [
+      {
+        "fecha": "2023-11-01",
+        "temperatura": 22,
+        "humedad": 55,
+        "viento": 12,
+        "descripcion": "Soleado"
+      },
+      {
+        "fecha": "2023-11-02",
+        "temperatura": 23,
+        "humedad": 60,
+        "viento": 10,
+        "descripcion": "Parcialmente nublado"
+      },
+      {
+        "fecha": "2023-11-03",
+        "temperatura": 25,
+        "humedad": 58,
+        "viento": 15,
+        "descripcion": "Mayormente soleado"
+      },
+      {
+        "fecha": "2023-11-04",
+        "temperatura": 24,
+        "humedad": 60,
+        "viento": 10,
+        "descripcion": "Parcialmente nublado"
+      }
+    ],
+    "pronostico": {
+      "fecha": "2023-11-05",
+      "temperatura": 26,
+      "humedad": 62,
+      "viento": 14,
+      "descripcion": "Soleado"
+    }
+  }
+  
