@@ -2,8 +2,8 @@
 
 
 [![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release)
-[![Build Status](https://travis-ci.org/pithit/Climate_Forecast.svg?branch=master)](https://travis-ci.org/pithit/Climate_Forecast)
-[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)](https://github.com/pithit/Climate_Forecast)
+<!-- [![Build Status](https://travis-ci.org/pithit/Climate_Forecast.svg?branch=master)](https://travis-ci.org/pithit/Climate_Forecast)
+[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)](https://github.com/pithit/Climate_Forecast) -->
 
 ## Overview
 
