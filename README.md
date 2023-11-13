@@ -1,8 +1,13 @@
 # Climate Forecast Project
 
+
+[![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release)
+[![Build Status](https://travis-ci.org/pithit/Climate_Forecast.svg?branch=master)](https://travis-ci.org/pithit/Climate_Forecast)
+[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)](https://github.com/pithit/Climate_Forecast)
+
 ## Overview
 
-This project aims to create a climate forecast dashboard for Buenos Aires, generating and visualizing fictional climate data using PySpark and creating a simple web-based dashboard. All data is ficticious since this is for trainning purpose.
+This project aims to create a climate forecast dashboard for Buenos Aires, generating and visualizing fictional climate data using PySpark and creating a simple web-based dashboard. This project is being updating on regular basis.
 
 ## Features
 
